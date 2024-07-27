@@ -1,4 +1,4 @@
-import { players, sortedPlayers, key } from "../src/js/app.js";
+import { players } from "../src/js/app.js";
 
 describe('sortPlayers', () => {
     const sortPlayers =  (players, key) => {
